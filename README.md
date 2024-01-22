@@ -1,6 +1,6 @@
 # MERN - FULL STACK REAL ESTATE APPLICATION
 
-## Developed using MongoDB, ExpressJS, ReactJS, NodeJS, OAuth and Tailwind CSS
+## Developed using MongoDB, ExpressJS, ReactJS, NodeJS, OAuth, Redux Toolkit and Tailwind CSS
 
 ![Alt text](Screenshot1.png)
 
